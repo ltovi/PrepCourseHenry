@@ -1,2 +1,3 @@
 # PrepCourseHenry
-Este es un repositorio del modulo de prueba de Henry
+Este pryecto es una prueba
+Tovi Luciano Matias
